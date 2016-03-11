@@ -14,3 +14,6 @@ bag:
 	-Infinity Stone (Infinity MP)
 	-Combat Knife
 	-Battle Bow
+	-pizza
+	-chocolate
+	-Team Capitão América
